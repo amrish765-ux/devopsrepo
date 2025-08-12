@@ -1,2 +1,2 @@
 # devopsrepo
-This repos is for practice the git version control.
+This repo is for practice the git version control.
